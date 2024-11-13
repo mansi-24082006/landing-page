@@ -1,2 +1,2 @@
-THis is coffee shop Website design..
+This is coffee shop Website design..
 
