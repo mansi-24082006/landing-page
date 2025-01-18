@@ -200,7 +200,8 @@ section .cards .card {
 
 
 .cards .card p {
-  font-size: 10px;
+  font-size: 15px;
+  color: white;
   padding: 0 15px;
   margin-top: 5px;
   margin-left: 0;
@@ -340,7 +341,7 @@ footer div {
 }
 
 footer span {
-  color: #fff;
+  color: black;
 }
 
 footer a {
@@ -543,4 +544,3 @@ footer{
 }
   
 }
-
